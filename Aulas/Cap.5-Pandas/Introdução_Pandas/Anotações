@@ -1,0 +1,17 @@
+Pandas
+
+- Series (1D)
+- DataFrame (2D+)
+    ambos permitem tipos diferentes
+- Complementa Numpy
+
+## Series
+índice e valores
+
+pode-se alimentar uma serie com um dicionário
+
+## DataFrame
+pensar como se fosse uma planilha do excel
+
+cada coluna de um DataFrame é uma Series - aglomerado de series
+
