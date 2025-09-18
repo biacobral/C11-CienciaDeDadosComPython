@@ -1,0 +1,48 @@
+ • O Matplotlib é uma das bibliotecas de visualização de dados
+ mais populares do mercado e a principal do mundo Python;
+ • Ela facilita a criação de gráficos estáticos, animados e
+ interativos
+
+.pyplot - gráficos fundamentais
+
+- Plot (linha) - alteração dos dados (ao longo do tempo)
+- Scatter (dispersão) - comparação mais visual
+- Bar (barras) - comparação
+- Pie (pizza) - proporção
+
+
+Formatação:
+Markers
+character    description
+'.'          point marker
+','          pixel marker
+'o'          circle marker
+'v'          triangle_down marker
+'^'          triangle_up marker
+'<'          triangle_left marker
+'>'          triangle_right marker
+'1'          tri_down marker
+'2'          tri_up marker
+'3'          tri_left marker
+'4'          tri_right marker
+'8'          octagon marker
+'s'          square marker
+'p'          pentagon marker
+'P'          plus (filled) marker
+'*'          star marker
+'h'          hexagon1 marker
+'H'          hexagon2 marker
+'+'          plus marker
+'x'          x marker
+'X'          x (filled) marker
+'D'          diamond marker
+'d'          thin_diamond marker
+'|'          vline marker
+'_'          hline marker
+
+Line Styles
+character    description
+'-'          solid line style
+'--'         dashed line style
+'-.'         dash-dot line style
+':'          dotted line style
