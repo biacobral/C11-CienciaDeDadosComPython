@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90e00b7f-3015-44f9-9a91-4f20b07074de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Aulas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 07-08/Conjuntos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 07-08/Dicionarios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 07-08/Listas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 07-08/Tuplas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Ex.Cap.2-Fundamentos_de_Python/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Ex.Cap.2-Fundamentos_de_Python/.idea/Introducao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Ex.Cap.2-Fundamentos_de_Python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Ex.Cap.2-Fundamentos_de_Python/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Ex.Cap.2-Fundamentos_de_Python/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Ex.Cap.2-Fundamentos_de_Python/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Ex.Cap.2-Fundamentos_de_Python/Exercicio1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Ex.Cap.2-Fundamentos_de_Python/Exercicio2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Ex.Cap.2-Fundamentos_de_Python/Exercicio3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Ex.Cap.2-Fundamentos_de_Python/Exercicio4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Ex.Cap.2-Fundamentos_de_Python/Exercicio5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/Ex.Cap.2-Fundamentos_de_Python/Exercicio6.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,11 +31,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="30yjLdg2jsNHKJ1d64apncNzLqG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,7 +50,8 @@
     "Python.Tuplas.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
